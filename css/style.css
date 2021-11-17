@@ -1,0 +1,69 @@
+
+body {
+    font: 12px "inter","work+sans";
+    color: black;
+}
+h1 {
+    font-size: 20px;
+}
+a {
+    color:black
+}
+#previewform {
+    display:none;
+    padding: auto;
+    text-align: center;
+}
+strong {
+    color:black;
+    background-color: burlywood;
+    padding:0;
+}
+footer {
+    text-align: center;
+    margin: 20px ;
+    font-size: 10px;
+    color:crimson
+
+}
+
+ .titulo {
+        padding: auto;
+        text-align: center;
+        color:black;
+        font-size: 36px;
+       font-style: italic;
+        font-weight: 200;
+        background-color: lightgray;
+    }
+
+    .corpo {
+        background-image: url(img.background.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+
+    .resumo {
+    padding: 20px; 
+    text-align: center;
+    font-family: cursive;
+    font-size: 16px;
+    font-style: italic;
+
+}
+
+
+
+.curiosidades {
+    margin: 15px;
+    width: auto;
+    box-sizing: border-box;
+    border: 10px black #666;
+    background-color:navajowhite;
+    padding: 25px;
+    text-align:center;
+    font-size: large;
+    line-height: 1.0;
+}
